@@ -7,28 +7,28 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import c from "./tech/c.png";
+import cpp from "./tech/cpp.png";
+import davinci from "./tech/davinci.png";
+import git from "./tech/github.png";
+import go from "./tech/go.png";
+import haskell from "./tech/haskell.png";
+import unreal from "./tech/unreal.png";
+import vscode from "./tech/vscode.png";
+import vue from "./tech/vue.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import proximus from "./company/proximus.png";
+import cybil from "./company/cybil.png";
+import fuzzion from "./company/fuzzion.png";
+import fivesnordon from "./company/fives_nordon.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import fuzziongit from "./fuzziongit.png";
+import glados from "./glados.png";
+import comingsoon from "./comingsoon.jpg";
 
 export {
   logo,
@@ -39,24 +39,24 @@ export {
   github,
   menu,
   close,
-  css,
-  docker,
   figma,
   git,
-  html,
   javascript,
-  mongodb,
   nodejs,
   reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  c,
+  cpp,
+  davinci,
+  go,
+  haskell,
+  unreal,
+  vscode,
+  vue,
+  proximus,
+  cybil,
+  fuzzion,
+  fivesnordon,
+  fuzziongit,
+  glados,
+  comingsoon,
 };
