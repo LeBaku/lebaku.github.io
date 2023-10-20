@@ -1,1 +1,0 @@
-# Baku's portfolio
