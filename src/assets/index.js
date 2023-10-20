@@ -30,6 +30,10 @@ import fuzziongit from "./fuzziongit.png";
 import glados from "./glados.png";
 import comingsoon from "./comingsoon.jpg";
 
+import stephane from "./stephane.jpg";
+import leo from "./leo.jpg";
+import noe from "./noe.jpg";
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   fuzziongit,
   glados,
   comingsoon,
+  stephane,
+  leo,
+  noe,
 };

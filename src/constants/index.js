@@ -23,6 +23,9 @@ import {
     fuzziongit,
     glados,
     comingsoon,
+    stephane,
+    leo,
+    noe,
   } from "../assets";
   
   export const navLinks = [
@@ -172,27 +175,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "Jules quickly understood what the solution brings to our customers; he is a person with commitment and rigor.",
+      name: "Stéphane THOREL",
       designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      company: "Cybil",
+      image: stephane,
+    },
+    {
+      testimonial:
+        "He's a fast learner; he can stay focused despite the stress during rush periods.",
+      name: "Léo RADIGON",
+      designation: "Student",
+      company: "Epitech",
+      image: leo,
+    },
+    {
+      testimonial:
+        "Oh yes, he's quite creative! He has, um... original ideas!",
+      name: "Noé BRETON",
+      designation: "Student",
+      company: "Epitech",
+      image: noe,
     },
   ];
   
